@@ -8,5 +8,6 @@
 <li>🍉High performance programming architecture (Lua) </li>
 <li>🍉And various internship experiences (Node.js / PHP / JavaScript) </li>
 <br>
-<p>People always have dreams, but don't think about them in dreams
+<br>
+<p align="right">People always have dreams, but don't think about them in dreams
 <br>Now, go and realize your dream.</p>
