@@ -1,7 +1,8 @@
 <h3>Hi there, I'm vowmoon（矢月鸢）🌙</h3>
-<p>I am a professional master student from China, studying graphics algorithms and AI in-depth learning, in the final analysis ... I want to thank my tutor and my RTX3090Ti .</p>
+<p>I am a professional master student from China, my major is computer science, now studying graphics algorithms and Windows driver design, and have research on deep learning in the school, at the final ... I want to thank my tutor and my RTX3090Ti (LOL).</p>
 <h3>participated in many development projects, including...</h3>
 <li>🍒Windows network driven design(C++ / WDK) </li>
+<li>🍒Graph learning algorithm(C++ / Direct3D) </li>
 <li>🍒Graph learning algorithm(C++ / Direct3D) </li>
 <li>🥞.Net Core domain driven design(C# / .net core) </li>
 <li>🐷Mechanical learning and natural language processing(python) </li>
