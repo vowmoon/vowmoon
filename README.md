@@ -6,6 +6,7 @@
 <li>🍒Reverse engineering and Digital signal analysis(C++ / .ASM) </li>
 <li>🥞.Net Core domain driven design(C# / .net core) </li>
 <li>🐷Mechanical learning and natural language processing(python) </li>
+<li>🐷Microservice architecture development(golang) </li>
 <li>🍉High performance programming architecture (Lua) </li>
 <li>🍉And various internship experiences (Node.js / PHP / JavaScript) </li>
 <br>
