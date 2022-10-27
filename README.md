@@ -3,7 +3,7 @@
 <h3>participated in many development projects, including...</h3>
 <li>🍒Windows network driven design(C++ / WDK) </li>
 <li>🍒Graph learning algorithm(C++ / Direct3D) </li>
-<li>🍒Graph learning algorithm(C++ / Direct3D) </li>
+<li>🍒Reverse engineering and Digital signal analysis(C++ / .ASM) </li>
 <li>🥞.Net Core domain driven design(C# / .net core) </li>
 <li>🐷Mechanical learning and natural language processing(python) </li>
 <li>🍉High performance programming architecture (Lua) </li>
